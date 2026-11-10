@@ -30,5 +30,5 @@ Evoluir como desenvolvedor Front-end, desenvolver projetos práticos e construir
 
 ### Contato
 
-- LinkedIn: [Meu perfil](www.linkedin.com/in/gustavo-gomes-1891a8436)
+- LinkedIn: [Meu perfil](https://linkedin.com/in/gustavo-gomes-1891a8436)
 - GitHub: [@gustagomesdev](https://github.com/gustagomesdev)
